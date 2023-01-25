@@ -5,9 +5,9 @@ import './index.css'
 
 class RegistrationForm extends Component {
   state = {
-    firstNameInput: '',
-    lastNameInput: '',
-    lastemail: '',
+    firstNameInput: 'Harshavardhan',
+    lastNameInput: 'Mattaparthi',
+    lastemail: 'harsha122337@gmail.com',
     passwordInput: '',
     ConformPasswordInput: '',
     showFirstNameError: false,
