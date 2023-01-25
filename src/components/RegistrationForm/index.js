@@ -120,7 +120,7 @@ class RegistrationForm extends Component {
     return (
       <div className="input-container">
         <label className="input-label" htmlFor="email">
-          EMAIL
+          harsha
         </label>
         <input
           type="email"
