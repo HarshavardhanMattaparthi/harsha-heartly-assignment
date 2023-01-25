@@ -7,7 +7,7 @@ class LoginForm extends Component {
   state = {
     username: '',
     password: '',
-    showSubmitError: false,
+    showSubmitError: true,
   }
 
   onChangeUsername = event => {
